@@ -1,4 +1,0 @@
-
-#include<stdio.h>
-void addition(int,int);
-void subtraction(int,int);
